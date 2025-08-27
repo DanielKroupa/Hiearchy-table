@@ -1,6 +1,6 @@
 ## Hierarchical Table Project
 
-This is a hierarchical table based on the requirements provided by [Koala42](https://koala42.com/)
+This is a hierarchical table created on the requirements provided by [Koala42](https://koala42.com/)
 
 ## 🛠 Technologies used
 
